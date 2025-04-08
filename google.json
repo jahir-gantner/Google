@@ -15,7 +15,7 @@
       "get": {
         "operationId": "getVersions",
         "summary": "List versions",
-        "description": "Lists information about all Database Service API versions.\n",
+        "description": "Lists information about all Database Service API versionssssssssss.\n",
         "produces": [
           "application/json"
         ],
